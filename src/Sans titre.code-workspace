@@ -1,0 +1,21 @@
+{
+	"folders": [
+		{
+			"path": "/Users/stephanebarthelemy/Documents/PlatformIO"
+		},
+		{
+			"name": "cam ip ",
+			"path": "/Users/stephanebarthelemy/Documents/PlatformIO/Projects/cam ip "
+		},
+		{
+			"name": "tracker-sim800L",
+			"path": "/Users/stephanebarthelemy/Documents/PlatformIO/Projects/tracker-sim800L"
+		}
+	],
+	"settings": {
+		"terminal.integrated.env.osx": {
+			"PATH": "/Users/stephanebarthelemy/.platformio/penv/bin:/Users/stephanebarthelemy/.platformio/penv:/Library/Frameworks/Python.framework/Versions/2.7/bin:/Users/stephanebarthelemy/Library/Android/sdk/platform-tools:/Users/stephanebarthelemy/Library/Android/sdk/emulator:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Library/Apple/usr/bin:/Library/Apple/bin:/Applications/Wireshark.app/Contents/MacOS:/Users/stephanebarthelemy/Library/Android/sdk/tools:/Users/stephanebarthelemy/Library/Android/sdk/platform-tools",
+			"PLATFORMIO_CALLER": "vscode"
+		}
+	}
+}
